@@ -1,0 +1,251 @@
+---
+title: "Coconino Regions"
+subtitle: "For program evaluation use only"
+format: 
+  html:
+    toc: true
+    theme: simplex
+date: "2024-02-29"
+author: "René Dario Herrera"
+embed-resources: TRUE
+---
+
+# Zip Codes 
+
+| ![Map of Coconino County Zip Codes](../data-viz/coco-zip-codes.png) |
+| --- | 
+| Visual display of Coconino County Zip Codes | 
+
+# Regions
+
+| ![Map of Coconino County Regions](../data-viz/coco-regions-v3.png) |
+| --- | 
+| Visual display of the Coconino County Regions | 
+
+## Coconino Total Population by Region
+
+|Region | Total population| Percent of total|
+|:------|----------------:|----------------:|
+|East   |            22666|            15.62|
+|North  |             9375|             6.46|
+|South  |           102532|            70.66|
+|West   |            10528|             7.26|
+
+# Population Demographics (US Census, 2020)
+
+## Coconino Regions Population by Race
+
+|Region |Race  | Population| Percent of region total|
+|:------|:-----|----------:|-----------------------:|
+|East   |AIAN  |      21614|                   95.36|
+|East   |Asian |        129|                    0.57|
+|East   |Black |         42|                    0.19|
+|East   |NHPI  |         10|                    0.04|
+|East   |Other |        547|                    2.41|
+|East   |White |        324|                    1.43|
+
+|Region |Race  | Population| Percent of region total|
+|:------|:-----|----------:|-----------------------:|
+|North  |AIAN  |       3237|                   34.53|
+|North  |Asian |        140|                    1.49|
+|North  |Black |         53|                    0.57|
+|North  |NHPI  |         12|                    0.13|
+|North  |Other |        947|                   10.10|
+|North  |White |       4986|                   53.18|
+
+|Region |Race  | Population| Percent of region total|
+|:------|:-----|----------:|-----------------------:|
+|South  |AIAN  |      10510|                   10.25|
+|South  |Asian |       2244|                    2.19|
+|South  |Black |       1698|                    1.66|
+|South  |NHPI  |        223|                    0.22|
+|South  |Other |      17082|                   16.66|
+|South  |White |      70775|                   69.03|
+
+|Region |Race  | Population| Percent of region total|
+|:------|:-----|----------:|-----------------------:|
+|West   |AIAN  |        864|                    8.21|
+|West   |Asian |        161|                    1.53|
+|West   |Black |        168|                    1.60|
+|West   |NHPI  |         17|                    0.16|
+|West   |Other |       2043|                   19.41|
+|West   |White |       7275|                   69.10|
+
+## Coconino Regions Population by Sex
+
+|Region |Variable | Population| Percent of region total|
+|:------|:--------|----------:|-----------------------:|
+|East   |Female   |      11503|                   51.04|
+|East   |Male     |      11033|                   48.96|
+
+|Region |Variable | Population| Percent of region total|
+|:------|:--------|----------:|-----------------------:|
+|North  |Female   |       4620|                   49.99|
+|North  |Male     |       4622|                   50.01|
+
+|Region |Variable | Population| Percent of region total|
+|:------|:--------|----------:|-----------------------:|
+|South  |Female   |      46018|                   50.34|
+|South  |Male     |      45392|                   49.66|
+
+|Region |Variable | Population| Percent of region total|
+|:------|:--------|----------:|-----------------------:|
+|West   |Female   |       4791|                   48.38|
+|West   |Male     |       5112|                   51.62|
+
+## Coconino Regions Population by Age Group
+
+
+|Region |Age      | Population| Percent of region total|
+|:------|:--------|----------:|-----------------------:|
+|East   |0 to 4   |       1512|                    6.71|
+|East   |5 to 17  |       4888|                   21.69|
+|East   |18 to 24 |       2076|                    9.21|
+|East   |25 to 44 |       5562|                   24.68|
+|East   |45 to 64 |       5448|                   24.17|
+|East   |65 to 84 |       2694|                   11.95|
+|East   |85+      |        356|                    1.58|
+
+|Region |Age      | Population| Percent of region total|
+|:------|:--------|----------:|-----------------------:|
+|North  |0 to 4   |        618|                    6.69|
+|North  |5 to 17  |       1800|                   19.48|
+|North  |18 to 24 |        885|                    9.58|
+|North  |25 to 44 |       2493|                   26.97|
+|North  |45 to 64 |       2082|                   22.53|
+|North  |65 to 84 |       1271|                   13.75|
+|North  |85+      |         93|                    1.01|
+
+|Region |Age      | Population| Percent of region total|
+|:------|:--------|----------:|-----------------------:|
+|South  |0 to 4   |       4478|                    4.90|
+|South  |5 to 17  |      13834|                   15.13|
+|South  |18 to 24 |      14976|                   16.38|
+|South  |25 to 44 |      24547|                   26.85|
+|South  |45 to 64 |      20321|                   22.23|
+|South  |65 to 84 |      12424|                   13.59|
+|South  |85+      |        830|                    0.91|
+
+|Region |Age      | Population| Percent of region total|
+|:------|:--------|----------:|-----------------------:|
+|West   |0 to 4   |        463|                    4.68|
+|West   |5 to 17  |       1415|                   14.29|
+|West   |18 to 24 |        645|                    6.51|
+|West   |25 to 44 |       2172|                   21.93|
+|West   |45 to 64 |       3086|                   31.16|
+|West   |65 to 84 |       2003|                   20.23|
+|West   |85+      |        119|                    1.20|
+
+## Coconino Regions Population by Sex and Age Group
+
+|Region |Variable          | Population| Percent of region total|
+|:------|:-----------------|----------:|-----------------------:|
+|East   |Female - 0 to 4   |        731|                    3.24|
+|East   |Female - 5 to 17  |       2379|                   10.56|
+|East   |Female - 18 to 24 |       1005|                    4.46|
+|East   |Female - 25 to 44 |       2735|                   12.14|
+|East   |Female - 45 to 64 |       2878|                   12.77|
+|East   |Female - 65 to 84 |       1552|                    6.89|
+|East   |Female - 85+      |        223|                    0.99|
+|East   |Male - 0 to 4     |        781|                    3.47|
+|East   |Male - 5 to 17    |       2509|                   11.13|
+|East   |Male - 18 to 24   |       1071|                    4.75|
+|East   |Male - 25 to 44   |       2827|                   12.54|
+|East   |Male - 45 to 64   |       2570|                   11.40|
+|East   |Male - 65 to 84   |       1142|                    5.07|
+|East   |Male - 85+        |        133|                    0.59|
+
+|Region |Variable          | Population| Percent of region total|
+|:------|:-----------------|----------:|-----------------------:|
+|North  |Female - 0 to 4   |        300|                    3.25|
+|North  |Female - 5 to 17  |        864|                    9.35|
+|North  |Female - 18 to 24 |        449|                    4.86|
+|North  |Female - 25 to 44 |       1275|                   13.80|
+|North  |Female - 45 to 64 |       1082|                   11.71|
+|North  |Female - 65 to 84 |        598|                    6.47|
+|North  |Female - 85+      |         52|                    0.56|
+|North  |Male - 0 to 4     |        318|                    3.44|
+|North  |Male - 5 to 17    |        936|                   10.13|
+|North  |Male - 18 to 24   |        436|                    4.72|
+|North  |Male - 25 to 44   |       1218|                   13.18|
+|North  |Male - 45 to 64   |       1000|                   10.82|
+|North  |Male - 65 to 84   |        673|                    7.28|
+|North  |Male - 85+        |         41|                    0.44|
+
+|Region |Variable          | Population| Percent of region total|
+|:------|:-----------------|----------:|-----------------------:|
+|South  |Female - 0 to 4   |       2186|                    2.39|
+|South  |Female - 5 to 17  |       6760|                    7.40|
+|South  |Female - 18 to 24 |       7841|                    8.58|
+|South  |Female - 25 to 44 |      12169|                   13.31|
+|South  |Female - 45 to 64 |      10270|                   11.24|
+|South  |Female - 65 to 84 |       6302|                    6.89|
+|South  |Female - 85+      |        490|                    0.54|
+|South  |Male - 0 to 4     |       2292|                    2.51|
+|South  |Male - 5 to 17    |       7074|                    7.74|
+|South  |Male - 18 to 24   |       7135|                    7.81|
+|South  |Male - 25 to 44   |      12378|                   13.54|
+|South  |Male - 45 to 64   |      10051|                   11.00|
+|South  |Male - 65 to 84   |       6122|                    6.70|
+|South  |Male - 85+        |        340|                    0.37|
+
+|Region |Variable          | Population| Percent of region total|
+|:------|:-----------------|----------:|-----------------------:|
+|West   |Female - 0 to 4   |        244|                    2.46|
+|West   |Female - 5 to 17  |        685|                    6.92|
+|West   |Female - 18 to 24 |        314|                    3.17|
+|West   |Female - 25 to 44 |       1076|                   10.87|
+|West   |Female - 45 to 64 |       1477|                   14.91|
+|West   |Female - 65 to 84 |        936|                    9.45|
+|West   |Female - 85+      |         59|                    0.60|
+|West   |Male - 0 to 4     |        219|                    2.21|
+|West   |Male - 5 to 17    |        730|                    7.37|
+|West   |Male - 18 to 24   |        331|                    3.34|
+|West   |Male - 25 to 44   |       1096|                   11.07|
+|West   |Male - 45 to 64   |       1609|                   16.25|
+|West   |Male - 65 to 84   |       1067|                   10.77|
+|West   |Male - 85+        |         60|                    0.61|
+
+# Socioeconomic Indicators (US Census ACS 5-Year, 2020)
+
+## Percent below poverty
+
+Data source: 2020 ACS5
+
+|Region | Below poverty est.| Total est.| Percent below poverty est.|
+|:------|------------------:|----------:|--------------------------:|
+|East   |               7069|      25149|                      28.11|
+|North  |               2166|       9583|                      22.60|
+|South  |              11654|      84373|                      13.81|
+|West   |               1153|       9786|                      11.78|
+
+## Median Income
+
+| ![Median income by region](../data-viz/coco-regions-median-income.png) |
+| --- | 
+| Median income by region | 
+
+Data source: 2020 ACS5
+
+|Region | Mean of median income est.| Lower limit est.| Upper limit est.|
+|:------|--------------------------:|----------------:|----------------:|
+|East   |                   20117.67|         15860.17|         24375.17|
+|North  |                   26786.33|         21076.67|         32496.00|
+|South  |                   31536.92|         25581.71|         37492.12|
+|West   |                   28496.25|         20439.75|         36552.75|
+
+## Median Monthly Housing Cost
+
+| ![Median income by region](../data-viz/coco-regions-median-housing-cost.png) |
+| --- | 
+| Median monthly housing cost by region | 
+
+Data source: 2020 ACS5
+
+|Region | Mean of median monthly housing cost est.| Lower limit est.| Upper limit est.|
+|:------|----------------------------------------:|----------------:|----------------:|
+|East   |                                   300.50|           268.50|           332.50|
+|North  |                                   906.00|           702.33|          1109.67|
+|South  |                                  1260.83|          1076.08|          1445.58|
+|West   |                                   684.33|           535.00|           833.67|
+
